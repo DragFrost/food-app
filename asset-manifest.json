@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/food-app/static/css/main.644e111d.css",
+    "main.js": "/food-app/static/js/main.ff36a6d5.js",
+    "static/media/dish1.jpg": "/food-app/static/media/dish1.70a386c1328ecf9e7a93.jpg",
+    "static/media/dish3.jpg": "/food-app/static/media/dish3.2fa97029ec55a33a4dea.jpg",
+    "static/media/dish2.jpg": "/food-app/static/media/dish2.80a5d4ba9e67f15b0c0d.jpg",
+    "static/media/easy-chef.svg": "/food-app/static/media/easy-chef.19bee88dabae7d2b431e5ba5592eb3b0.svg",
+    "index.html": "/food-app/index.html",
+    "main.644e111d.css.map": "/food-app/static/css/main.644e111d.css.map",
+    "main.ff36a6d5.js.map": "/food-app/static/js/main.ff36a6d5.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.644e111d.css",
+    "static/js/main.ff36a6d5.js"
+  ]
+}
