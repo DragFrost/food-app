@@ -30,7 +30,7 @@ function Home() {
       <section className='pagesection'>
         <div className="container">
           <div className="row align-items-center">
-            <div className="col-md-6">
+            <div className="col-md-6 order-1 order-md-0 pt-4 pt-md-0">
               <div className="abouttext">
                 <h3>{title}</h3>
                 <p>Lorem ipsum dolor sit amet consectetur, adipisicing elit. Saepe quasi omnis corrupti deserunt possimus, amet facilis vel numquam suscipit blanditiis! Aliquid, commodi? Est perspiciatis hic minus, doloremque accusamus eos exercitationem cumque, dolorum magnam ratione repudiandae autem quaerat nemo quisquam veritatis quo! Atque deleniti ad, quos iste quaerat inventore optio eum! Itaque cum vitae, doloremque non assumenda quo laborum deleniti cupiditate eligendi corrupti quod unde nobis odio nihil eaque possimus hic.</p>
