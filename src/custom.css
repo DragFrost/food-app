@@ -1,0 +1,77 @@
+.active,
+.dot:hover {
+    background-color: #fff;
+}
+
+.navbar {
+    padding: 0;
+}
+
+.ms-n5 {
+    margin-left: -40px;
+}
+
+.btn:hover {
+    color: #ff6305;
+}
+
+.pagesection {
+    padding: 80px 0;
+}
+
+.abouttext {
+    padding-right: 40px;
+}
+
+.abouttext h3 {
+    font-size: 35px;
+    font-weight: 600;
+    margin-bottom: 30px;
+}
+
+.input-group > .form-control:focus, .input-group > .form-floating:focus-within, .input-group > .form-select:focus {
+    z-index: 0;
+}
+
+.bannerimg {
+    max-height: 400px;
+    overflow: hidden;
+    display: flex;
+    align-items: center;
+}
+
+.bannerimg img {
+    width: 100%;
+}
+
+#results {
+    list-style: none;
+    display: flex;
+    flex-wrap: wrap;
+}
+
+#results li {
+    max-width: 50%;
+    min-width: 50%;
+    margin-bottom: 20px;
+    background-color: #000;
+    display: inline-flex;
+    align-items: center;
+}
+
+#results li img {
+    margin-right: 20px;
+}
+
+#results li a {
+    text-decoration: none;
+    color: #fff;
+}
+
+#results li a:hover {
+    color: #ff6305;
+}
+
+.carousel-dark .carousel-control-next-icon, .carousel-dark .carousel-control-prev-icon {
+    filter: unset;
+}
